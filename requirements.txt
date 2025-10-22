@@ -1,7 +1,2 @@
 flask
-flask-cors
-PyYAML==5.4.1
-cython
-setuptools
-wheel
-build
+
