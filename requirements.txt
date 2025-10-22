@@ -1,4 +1,4 @@
 flask
 flask-cors
 luminoth
-PyYAML==5.4.1
+PyYAML==5.3.1
