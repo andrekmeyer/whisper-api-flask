@@ -2,3 +2,7 @@ flask
 flask-cors
 luminoth
 PyYAML==5.4.1
+cython
+setuptools
+wheel
+build
